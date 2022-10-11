@@ -1,4 +1,4 @@
-﻿## Got(s+mws)  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+﻿## 一鍵部署 Gost(ss+mws)  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 > 1. 服務端部署後，應`open app` ，顯示`404 page not found`，則部署完成。
 
